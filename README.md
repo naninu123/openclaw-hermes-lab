@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
@@ -193,3 +194,36 @@ scripts/run_tests.sh
 MIT — see [LICENSE](LICENSE).
 
 Built by [Nous Research](https://nousresearch.com).
+=======
+#  Hermes Agent VPS Setup
+
+Self-hosted autonomous AI agent environment running on Ubuntu VPS.
+
+## Stack
+
+* Hermes Agent
+* OpenRouter API
+* Ubuntu AWS VPS
+* Python
+* Claude Code
+* OpenClaw
+
+## Features
+
+* Autonomous coding workflows
+* Tool calling
+* Terminal execution
+* File operations
+* Multi-agent experimentation
+
+## Infrastructure
+
+* AWS EC2 Ubuntu 24.04
+* OpenRouter free models
+* Python virtual environment
+
+## Status
+
+Currently testing autonomous agent workflows and model orchestration.
+mes-lab
+>>>>>>> 89a5853c3cb26cac78f1a76892c42d41ab288553
