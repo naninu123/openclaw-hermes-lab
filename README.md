@@ -1,4 +1,4 @@
-# openclaw-her# Hermes Agent VPS Setup
+#  Hermes Agent VPS Setup
 
 Self-hosted autonomous AI agent environment running on Ubuntu VPS.
 
